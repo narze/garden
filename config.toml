@@ -1,4 +1,4 @@
-baseURL = "https://dg.narze.live/"
+baseURL = "https://garden.narze.live/"
 languageCode = "en-us"
 googleAnalytics = "G-PHZL82TW02"
 pygmentsUseClasses = true
