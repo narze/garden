@@ -1,9 +1,14 @@
 name: Deploy to GitHub Pages
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - hugo
+  schedule:
+    - cron: "0 */2 * * *"
+  watch:
+    types: [started]
 
 jobs:
   deploy:
