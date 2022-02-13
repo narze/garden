@@ -10,19 +10,19 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
-      
+
       - name: Pull & update submodules recursively
         run: |
           git submodule update --init --recursive
           git submodule update --recursive --remote
-          
-#       - name: Commit
-#         run: |
-#           git config user.email "actions@github.com"
-#           git config user.name "GitHub Actions - update submodules"
-#           git add --all
-#           git commit -m "Update submodules" || echo "No changes to commit"
-#           git push
+
+      #       - name: Commit
+      #         run: |
+      #           git config user.email "actions@github.com"
+      #           git config user.name "GitHub Actions - update submodules"
+      #           git add --all
+      #           git commit -m "Update submodules" || echo "No changes to commit"
+      #           git push
 
       - name: Build Link Index
         uses: jackyzha0/hugo-obsidian@v2.7
@@ -34,7 +34,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.82.0'
+          hugo-version: "0.82.0"
           extended: true
 
       - name: Build
@@ -45,5 +45,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          publish_branch: master  # deploying branch
-          cname: quartz.jzhao.xyz
+          publish_branch: master # deploying branch
+          cname: dg.narze.live
