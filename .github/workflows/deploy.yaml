@@ -5,10 +5,10 @@ on:
   push:
     branches:
       - hugo
-  schedule:
-    - cron: "0 */2 * * *"
   watch:
     types: [started]
+  # schedule:
+  #   - cron: "0 */2 * * *"
 
 jobs:
   deploy:
@@ -49,6 +49,8 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          user_name: "narze's bot"
+          user_email: "85010507+notbarze@users.noreply.github.com"
           publish_dir: ./public
           publish_branch: master # deploying branch
           cname: dg.narze.live
