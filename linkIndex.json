@@ -1,0 +1,301 @@
+{
+  "index": {
+    "links": {
+      "/": [
+        {
+          "source": "/",
+          "target": "/Second-Brain",
+          "text": "Second Brain"
+        },
+        {
+          "source": "/",
+          "target": "/Outlets",
+          "text": "Outlets"
+        },
+        {
+          "source": "/",
+          "target": "/Second-Brain",
+          "text": "Second Brain"
+        },
+        {
+          "source": "/",
+          "target": "/Wishlist",
+          "text": "Wishlist"
+        },
+        {
+          "source": "/",
+          "target": "/Uses",
+          "text": "Uses"
+        },
+        {
+          "source": "/",
+          "target": "/PARA-Method",
+          "text": "PARA"
+        },
+        {
+          "source": "/",
+          "target": "/1-projects/",
+          "text": "Projects"
+        },
+        {
+          "source": "/",
+          "target": "/2-areas/",
+          "text": "Areas"
+        },
+        {
+          "source": "/",
+          "target": "/3-resources/",
+          "text": "Resources"
+        },
+        {
+          "source": "/",
+          "target": "/4-archives/",
+          "text": "Archives"
+        }
+      ],
+      "/Ideas": [
+        {
+          "source": "/Ideas",
+          "target": "/Outlets",
+          "text": "Medium"
+        }
+      ],
+      "/Outlets": [
+        {
+          "source": "/Outlets",
+          "target": "/Second-Brain",
+          "text": "Second Brain"
+        }
+      ],
+      "/Second-Brain": [
+        {
+          "source": "/Second-Brain",
+          "target": "/PARA-Method",
+          "text": "PARA Method"
+        },
+        {
+          "source": "/Second-Brain",
+          "target": "/Obsidian",
+          "text": "Obsidian"
+        }
+      ],
+      "/Test/test": [
+        {
+          "source": "/Test/test",
+          "target": "/../Ideas",
+          "text": "Ideas"
+        }
+      ],
+      "/Uses": [
+        {
+          "source": "/Uses",
+          "target": "/Second-Brain",
+          "text": "Second Brain"
+        }
+      ],
+      "/Wishlist": [
+        {
+          "source": "/Wishlist",
+          "target": "/Uses",
+          "text": "Uses"
+        }
+      ]
+    },
+    "backlinks": {
+      "/../Ideas": [
+        {
+          "source": "/Test/test",
+          "target": "/../Ideas",
+          "text": "Ideas"
+        }
+      ],
+      "/1-projects/": [
+        {
+          "source": "/",
+          "target": "/1-projects/",
+          "text": "Projects"
+        }
+      ],
+      "/2-areas/": [
+        {
+          "source": "/",
+          "target": "/2-areas/",
+          "text": "Areas"
+        }
+      ],
+      "/3-resources/": [
+        {
+          "source": "/",
+          "target": "/3-resources/",
+          "text": "Resources"
+        }
+      ],
+      "/4-archives/": [
+        {
+          "source": "/",
+          "target": "/4-archives/",
+          "text": "Archives"
+        }
+      ],
+      "/Obsidian": [
+        {
+          "source": "/Second-Brain",
+          "target": "/Obsidian",
+          "text": "Obsidian"
+        }
+      ],
+      "/Outlets": [
+        {
+          "source": "/Ideas",
+          "target": "/Outlets",
+          "text": "Medium"
+        },
+        {
+          "source": "/",
+          "target": "/Outlets",
+          "text": "Outlets"
+        }
+      ],
+      "/PARA-Method": [
+        {
+          "source": "/Second-Brain",
+          "target": "/PARA-Method",
+          "text": "PARA Method"
+        },
+        {
+          "source": "/",
+          "target": "/PARA-Method",
+          "text": "PARA"
+        }
+      ],
+      "/Second-Brain": [
+        {
+          "source": "/Outlets",
+          "target": "/Second-Brain",
+          "text": "Second Brain"
+        },
+        {
+          "source": "/Uses",
+          "target": "/Second-Brain",
+          "text": "Second Brain"
+        },
+        {
+          "source": "/",
+          "target": "/Second-Brain",
+          "text": "Second Brain"
+        },
+        {
+          "source": "/",
+          "target": "/Second-Brain",
+          "text": "Second Brain"
+        }
+      ],
+      "/Uses": [
+        {
+          "source": "/Wishlist",
+          "target": "/Uses",
+          "text": "Uses"
+        },
+        {
+          "source": "/",
+          "target": "/Uses",
+          "text": "Uses"
+        }
+      ],
+      "/Wishlist": [
+        {
+          "source": "/",
+          "target": "/Wishlist",
+          "text": "Wishlist"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "source": "/Ideas",
+      "target": "/Outlets",
+      "text": "Medium"
+    },
+    {
+      "source": "/Outlets",
+      "target": "/Second-Brain",
+      "text": "Second Brain"
+    },
+    {
+      "source": "/Second-Brain",
+      "target": "/PARA-Method",
+      "text": "PARA Method"
+    },
+    {
+      "source": "/Second-Brain",
+      "target": "/Obsidian",
+      "text": "Obsidian"
+    },
+    {
+      "source": "/Test/test",
+      "target": "/../Ideas",
+      "text": "Ideas"
+    },
+    {
+      "source": "/Uses",
+      "target": "/Second-Brain",
+      "text": "Second Brain"
+    },
+    {
+      "source": "/Wishlist",
+      "target": "/Uses",
+      "text": "Uses"
+    },
+    {
+      "source": "/",
+      "target": "/Second-Brain",
+      "text": "Second Brain"
+    },
+    {
+      "source": "/",
+      "target": "/Outlets",
+      "text": "Outlets"
+    },
+    {
+      "source": "/",
+      "target": "/Second-Brain",
+      "text": "Second Brain"
+    },
+    {
+      "source": "/",
+      "target": "/Wishlist",
+      "text": "Wishlist"
+    },
+    {
+      "source": "/",
+      "target": "/Uses",
+      "text": "Uses"
+    },
+    {
+      "source": "/",
+      "target": "/PARA-Method",
+      "text": "PARA"
+    },
+    {
+      "source": "/",
+      "target": "/1-projects/",
+      "text": "Projects"
+    },
+    {
+      "source": "/",
+      "target": "/2-areas/",
+      "text": "Areas"
+    },
+    {
+      "source": "/",
+      "target": "/3-resources/",
+      "text": "Resources"
+    },
+    {
+      "source": "/",
+      "target": "/4-archives/",
+      "text": "Archives"
+    }
+  ]
+}
