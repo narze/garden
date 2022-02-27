@@ -67,6 +67,13 @@
           "text": "Second Brain"
         }
       ],
+      "/Quartz": [
+        {
+          "source": "/Quartz",
+          "target": "/Digital-Garden",
+          "text": "Digital Garden"
+        }
+      ],
       "/Second-Brain": [
         {
           "source": "/Second-Brain",
@@ -135,6 +142,13 @@
           "source": "/",
           "target": "/4-archives/",
           "text": "Archives"
+        }
+      ],
+      "/Digital-Garden": [
+        {
+          "source": "/Quartz",
+          "target": "/Digital-Garden",
+          "text": "Digital Garden"
         }
       ],
       "/Obsidian": [
@@ -221,6 +235,11 @@
       "source": "/Outlets",
       "target": "/Second-Brain",
       "text": "Second Brain"
+    },
+    {
+      "source": "/Quartz",
+      "target": "/Digital-Garden",
+      "text": "Digital Garden"
     },
     {
       "source": "/Second-Brain",
