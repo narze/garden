@@ -8,7 +8,7 @@
 
     <!-- CSS Stylesheets and Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Source+Sans+Pro:wght@400;600;700&family=Fira+Code:wght@400;700&display=swap" rel="stylesheet">
-    {{ $css := slice "custom.scss" "base.scss" "darkmode.scss" "syntax.scss"}}
+    {{$css := slice "base.scss" "darkmode.scss" "syntax.scss" "custom.scss"}}
     {{range $css}}
     {{$sass := resources.Get . | resources.ToCSS }}
     {{with $sass | minify}}
@@ -26,9 +26,33 @@
 
     <!--  Preload page vars  -->
     <script>
-    const content = {{$.Site.Data.contentIndex}}
-    const index = {{$.Site.Data.linkIndex.index}}
-    const links = {{$.Site.Data.linkIndex.links}}
+      let saved = false
+      const fetchData = async () => {
+        if (saved) {
+          return saved
+        } else {
+          const promises = [
+            fetch("{{ .Site.BaseURL }}/linkIndex.json")
+              .then(data => data.json())
+              .then(data => ({
+                index: data.index,
+                links: data.links,
+              })),
+            fetch("{{ .Site.BaseURL }}/contentIndex.json")
+              .then(data => data.json()),
+          ]
+          const [{index, links}, content] = await Promise.all(promises)
+          const res = ({
+            index,
+            links,
+            content,
+          })
+          saved = res
+          return res
+        }
+
+      }
+      fetchData()
     </script>
 </head>
 {{ template "_internal/google_analytics.html" . }}

@@ -6,7 +6,7 @@
   --lt-colours-gray: var(--outlinegray) !important;
 }
 
-h1, h2, h3, h4, ol, ul, thead {
+h1, h2, h3, h4, h5, h6, ol, ul, thead {
   font-family: Inter;
   color: var(--dark);
   font-weight: revert;
@@ -79,10 +79,6 @@ p, tbody, li {
   font-family: Source Sans Pro;
   color: var(--gray);
   line-height: 1.5em;
-}
-
-h2, h3 {
-  opacity: 0.9;
 }
 
 blockquote {
@@ -229,6 +225,13 @@ code {
 
 html {
   scroll-behavior: smooth;
+
+  &:lang(ar) {
+    & p, & h1, & h2, & h3, article {
+      direction: rtl;
+      text-align: right;
+    }
+  }
 }
 
 body {
@@ -467,8 +470,9 @@ header {
 .popover {
   z-index: 999;
   position: absolute;
-  width: 15em;
-  display: inline;
+  width: 20em;
+  display: inline-block;
+  visibility: hidden;
   background-color: var(--light);
   padding: 1em;
   border: 1px solid var(--outlinegray);
@@ -482,15 +486,23 @@ header {
 
   &.visible {
     opacity: 1;
+    visibility: visible;
     transform: translate(-50%, 20%);
   }
 
   & > h3 {
-    margin: 0.5em 0;
+    font-size: 1rem;
+    margin: 0.25em 0;
+  }
+
+  & > .meta {
+    margin-top: 0.25em;
+    opacity: 0.5;
   }
 
   & > p {
     margin: 0;
     font-weight: 400;
+    user-select: none;
   }
 }
