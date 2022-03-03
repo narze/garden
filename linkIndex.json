@@ -53,6 +53,32 @@
           "text": "Archives"
         }
       ],
+      "/#100DaysOfCode": [
+        {
+          "source": "/#100DaysOfCode",
+          "target": "/100-Days-of-Writing",
+          "text": "100 Days of Writing"
+        }
+      ],
+      "/100-Days-of-Writing": [
+        {
+          "source": "/100-Days-of-Writing",
+          "target": "/",
+          "text": "#100DaysOfCode"
+        }
+      ],
+      "/Generating-an-optimized-Thai-keyboard-layout": [
+        {
+          "source": "/Generating-an-optimized-Thai-keyboard-layout",
+          "target": "/toward-a-more-useful-thai-keyboard-layout",
+          "text": "Thai keyboard layout"
+        },
+        {
+          "source": "/Generating-an-optimized-Thai-keyboard-layout",
+          "target": "/40-percent-keyboard",
+          "text": "40% Keyboard"
+        }
+      ],
       "/Ideas": [
         {
           "source": "/Ideas",
@@ -106,9 +132,23 @@
           "target": "/Uses",
           "text": "Uses"
         }
+      ],
+      "/asdf-The-Ultimate-Version-Manager": [
+        {
+          "source": "/asdf-The-Ultimate-Version-Manager",
+          "target": "/rust-for-rubyist",
+          "text": "Rust"
+        }
       ]
     },
     "backlinks": {
+      "/": [
+        {
+          "source": "/100-Days-of-Writing",
+          "target": "/",
+          "text": "#100DaysOfCode"
+        }
+      ],
       "/../Ideas": [
         {
           "source": "/Test/test",
@@ -121,6 +161,13 @@
           "source": "/",
           "target": "/1-projects/",
           "text": "Projects"
+        }
+      ],
+      "/100-Days-of-Writing": [
+        {
+          "source": "/#100DaysOfCode",
+          "target": "/100-Days-of-Writing",
+          "text": "100 Days of Writing"
         }
       ],
       "/2-areas/": [
@@ -142,6 +189,13 @@
           "source": "/",
           "target": "/4-archives/",
           "text": "Archives"
+        }
+      ],
+      "/40-percent-keyboard": [
+        {
+          "source": "/Generating-an-optimized-Thai-keyboard-layout",
+          "target": "/40-percent-keyboard",
+          "text": "40% Keyboard"
         }
       ],
       "/Digital-Garden": [
@@ -222,10 +276,44 @@
           "target": "/Wishlist",
           "text": "Wishlist"
         }
+      ],
+      "/rust-for-rubyist": [
+        {
+          "source": "/asdf-The-Ultimate-Version-Manager",
+          "target": "/rust-for-rubyist",
+          "text": "Rust"
+        }
+      ],
+      "/toward-a-more-useful-thai-keyboard-layout": [
+        {
+          "source": "/Generating-an-optimized-Thai-keyboard-layout",
+          "target": "/toward-a-more-useful-thai-keyboard-layout",
+          "text": "Thai keyboard layout"
+        }
       ]
     }
   },
   "links": [
+    {
+      "source": "/#100DaysOfCode",
+      "target": "/100-Days-of-Writing",
+      "text": "100 Days of Writing"
+    },
+    {
+      "source": "/100-Days-of-Writing",
+      "target": "/",
+      "text": "#100DaysOfCode"
+    },
+    {
+      "source": "/Generating-an-optimized-Thai-keyboard-layout",
+      "target": "/toward-a-more-useful-thai-keyboard-layout",
+      "text": "Thai keyboard layout"
+    },
+    {
+      "source": "/Generating-an-optimized-Thai-keyboard-layout",
+      "target": "/40-percent-keyboard",
+      "text": "40% Keyboard"
+    },
     {
       "source": "/Ideas",
       "target": "/Outlets",
@@ -315,6 +403,11 @@
       "source": "/",
       "target": "/4-archives/",
       "text": "Archives"
+    },
+    {
+      "source": "/asdf-The-Ultimate-Version-Manager",
+      "target": "/rust-for-rubyist",
+      "text": "Rust"
     }
   ]
 }
