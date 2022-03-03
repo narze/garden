@@ -67,6 +67,13 @@
           "text": "#100DaysOfCode"
         }
       ],
+      "/Coding-Workflow": [
+        {
+          "source": "/Coding-Workflow",
+          "target": "/How-I-git-in-2020",
+          "text": "How I git in 2020"
+        }
+      ],
       "/Generating-an-optimized-Thai-keyboard-layout": [
         {
           "source": "/Generating-an-optimized-Thai-keyboard-layout",
@@ -84,6 +91,18 @@
           "source": "/Ideas",
           "target": "/Outlets",
           "text": "Medium"
+        }
+      ],
+      "/Maintaining-Momentum": [
+        {
+          "source": "/Maintaining-Momentum",
+          "target": "/100-Days-of-Writing",
+          "text": "100 Days of Writing"
+        },
+        {
+          "source": "/Maintaining-Momentum",
+          "target": "/Atomic-Habits",
+          "text": "Building habits"
         }
       ],
       "/Outlets": [
@@ -139,6 +158,13 @@
           "target": "/rust-for-rubyist",
           "text": "Rust"
         }
+      ],
+      "/ghq": [
+        {
+          "source": "/ghq",
+          "target": "/How-I-git-in-2020",
+          "text": "git"
+        }
       ]
     },
     "backlinks": {
@@ -166,6 +192,11 @@
       "/100-Days-of-Writing": [
         {
           "source": "/#100DaysOfCode",
+          "target": "/100-Days-of-Writing",
+          "text": "100 Days of Writing"
+        },
+        {
+          "source": "/Maintaining-Momentum",
           "target": "/100-Days-of-Writing",
           "text": "100 Days of Writing"
         }
@@ -198,11 +229,30 @@
           "text": "40% Keyboard"
         }
       ],
+      "/Atomic-Habits": [
+        {
+          "source": "/Maintaining-Momentum",
+          "target": "/Atomic-Habits",
+          "text": "Building habits"
+        }
+      ],
       "/Digital-Garden": [
         {
           "source": "/Quartz",
           "target": "/Digital-Garden",
           "text": "Digital Garden"
+        }
+      ],
+      "/How-I-git-in-2020": [
+        {
+          "source": "/Coding-Workflow",
+          "target": "/How-I-git-in-2020",
+          "text": "How I git in 2020"
+        },
+        {
+          "source": "/ghq",
+          "target": "/How-I-git-in-2020",
+          "text": "git"
         }
       ],
       "/Obsidian": [
@@ -305,6 +355,11 @@
       "text": "#100DaysOfCode"
     },
     {
+      "source": "/Coding-Workflow",
+      "target": "/How-I-git-in-2020",
+      "text": "How I git in 2020"
+    },
+    {
       "source": "/Generating-an-optimized-Thai-keyboard-layout",
       "target": "/toward-a-more-useful-thai-keyboard-layout",
       "text": "Thai keyboard layout"
@@ -318,6 +373,16 @@
       "source": "/Ideas",
       "target": "/Outlets",
       "text": "Medium"
+    },
+    {
+      "source": "/Maintaining-Momentum",
+      "target": "/100-Days-of-Writing",
+      "text": "100 Days of Writing"
+    },
+    {
+      "source": "/Maintaining-Momentum",
+      "target": "/Atomic-Habits",
+      "text": "Building habits"
     },
     {
       "source": "/Outlets",
@@ -408,6 +473,11 @@
       "source": "/asdf-The-Ultimate-Version-Manager",
       "target": "/rust-for-rubyist",
       "text": "Rust"
+    },
+    {
+      "source": "/ghq",
+      "target": "/How-I-git-in-2020",
+      "text": "git"
     }
   ]
 }
