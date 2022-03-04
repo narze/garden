@@ -2,331 +2,331 @@
   "/": {
     "title": "Digital Garden, again",
     "content": "So [monosor.com](https://monosor.com) failed to make me update it.\n\n## What's this?\n\nA [Second Brain](/Second%20Brain.md) by me started in 2022. Using [Obsidian](https://obsidian.md/) \u0026 [Quartz](https://quartz.jzhao.xyz), all the notes are backup using iCloud Drive \u0026 [Github](https://github.com/narze/second-brain). I plan to create my own static site builder using SvelteKit, too.\n\nThis will be the one of my [Outlets](/Outlets.md)\n\n## Start Here\n- [Second Brain](Second%20Brain.md)\n- [Wishlist](Wishlist.md)\n- [Uses](Uses.md)\n- [PARA](PARA%20Method.md)\n\t- [Projects](/1-projects/)\n\t- [Areas](/2-areas/)\n\t- [Resources](/3-resources/)\n\t- [Archives](/4-archives/)\n\n## Webring\n\nThis website is a part of the [\"วงแหวนเว็บ\" (Thai Webring)](https://webring.wonderful.software#garden.narze.live)",
-    "lastmodified": "2022-03-03T14:47:20.518439105Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   },
   "/#100DaysOfCode": {
     "title": "#100DaysOfCode",
     "content": "I hated frontend development.\n\nI mainly make backends for websites. My last project which I also do the frontend is like 5 years ago. The knowledge I had on frontend is long outdated (jQuery, React 0.12-ish, Angular 1.) As a Ruby developer which rely heavily on testing, I also thought that frontend code is less useful to add tests since you can just refresh the page to see the changed code. Furthermore, my CSS skill is non-existent (still struggle just to center HTML elements.) So I used this [#100DaysOfCode](https://www.100daysofcode.com/) challenge to re-learn my frontend coding skill from scratch.\n\n#100DaysOfCode is the challenge where you code (or learn to code) every day for 100 days. I used my free time after work at least 30 minutes to create websites, then learn new techniques \u0026 frameworks along the way.\n\nIn the course of 100 days, I've learned and tried many frameworks such as React.js (version 16), Vue.js 3, Svelte, Alpine.js, Next.js, Nuxt.js, Gatsby.js, and many more. I also created some reusable templates like [Next.js boilerplate](https://github.com/narze/thank-u-nextjs) which included many modern libraries I like.\n\nAfter I've rebuilt [toSkoy](https://github.com/narze/toSkoy) project which was nearly 5 years old in the 100th day. I gave a talk about this challenge \u0026 how to succeed it at [Bkk.js #14 meetup](https://www.eventpop.me/e/9622) ([Slides](https://bit.ly/bkkjs14bf100))\n\nI'm so proud of myself for completing this challenge. It really changed my life to be a better web developer.\n\nSee [my #100DaysOfCode website](https://100.narze.vercel.app/) (built with Gatsby.js)\n\nNext I'll take on [100 Days of Writing](100%20Days%20of%20Writing.md)",
-    "lastmodified": "2022-03-03T14:47:20.498438377Z",
+    "lastmodified": "2022-03-04T03:46:57.550125409Z",
     "tags": null
   },
   "/100-Days-of-Writing": {
     "title": "100 Days of Writing",
     "content": "I've been thinking of this challenge while I was doing [#100DaysOfCode](#100DaysOfCode.md). As I want to be a better writer/blogger as well.\n\n## My problems with writing\n\n-   I had so many ideas, but often times cannot express them as words.\n-   I can't wire sentences into nice and clean paragraphs, so I ended up using bullet points, like this one.\n-   I get easily distracted when researching stuff.\n-   I don't like seeing the same words or phrases being used repeatedly, but I can't think of other words and why I don't like this.\n-   I lack the experience of writing essays, and my grades about writing is really bad.\n\n## Challenge Accepted\n\nBefore starting this challenge, I had gathered around 20 article ideas to write on this website in English. Most of them are productivity related, some are tech/coding. I want to write fiction too, but I don't think I can in my current state. Some will be posted on [my Medium](https://medium.com/@narze) as I see fit. I will try to make around 30-50 articles. Let's see if I can make it until the end!",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/2-Areas/Algorithms/Dynamic-Programming": {
     "title": "Dynamic Programming",
     "content": "## Links\n- https://learnxinyminutes.com/docs/dynamic-programming/",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/2-Areas/Keyboard-Typing/Typing-Guide": {
     "title": "Typing Guide",
     "content": "https://docs.google.com/document/d/1L-P68VDSGlpLM5A9tfRvWFohaR2NzPbkUT0ok34rsFU/edit\n- Practice regularly, take breaks\n- Have good posture\n\t- **![](https://lh6.googleusercontent.com/Rdz6ZpuF_Ro9DUAEpMPMlTn07BbjMfUjSyJVfeTVU579aOffQxep7MvyOh3Hm8mRMEsmyiLKjJ_3fBxV66ePVs95LYMRKoxnS_X9PjOFo2HyPN2mLS5fPTQZMcmaa7jSGzw8oDae)**\n- \"Typing is 99% Muscle Memory\"\n- Type before going to bed, have a regular sleep cycle\n- Accuracy First\n- Rhythm\n\t- Go faster on easy words, slower on hard words\n\t\t- Slow down on any words longer than 7 letters or shorter than 3\n\t- Read one word ahead\n\t- Read entire words, not single characters\n- Advanced tricks\n\t- Use right thumb to press n,m,b (h,k,v an Colemak DH) and sometimes comma\n\t- Control + Backspace to correct wrong words\n\t- Improve your reading speed\n- Notice weakness and fix it\n- Alternating between focusing on speed and accuracy",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/2-Areas/Microservices/Microservices-API-Patterns": {
     "title": "Microservices API Patterns",
     "content": "https://www.microservice-api-patterns.org\n\nwww.youtube.com/watch?v=cNp7ys0g0Bs\n\n![](/Images/Microservices%20API%20Patterns%20(MAP).png)",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/3-Resources/GraphQL/Chaining-GraphQL-queries": {
     "title": "Chaining GraphQL queries",
     "content": "(ref: https://stackoverflow.com/questions/49317582/how-to-chain-two-graphql-queries-in-sequence-using-apollo-client/49320606#49320606)\n\nThe props added by your `firstQuery` component will be available to the component below (inside) it, so you can do something like:\n\n```\nexport default compose(\n  graphql(firstQuery, {\n    name: 'firstQuery'\n  }),\n  graphql(secondQuery, { \n    name: 'secondQuery',\n    skip: ({ firstQuery }) =\u003e !firstQuery.data,\n    options: ({firstQuery}) =\u003e ({\n      variables: {\n          var1: firstQuery.data.someQuery.someValue\n      }\n    })\n  })\n)(withRouter(TestPage))\n```\n\nNotice that we use `skip` to skip the second query unless we actually have data from the first query to work with.\n\n### Using the Query Component\n\nIf you're using the `Query` component, you can also utilize the `skip` property, although you also have the option to return something else (like `null` or a loading indicator) inside the first render props function:\n\n```\n\u003cQuery query={firstQuery}\u003e\n  {({ data: { someQuery: { someValue } = {} } = {} }) =\u003e (\n    \u003cQuery\n      query={secondQuery}\n      variables={{var1: someValue}}\n      skip={someValue === undefined}\n    \u003e\n      {({ data: secondQueryData }) =\u003e (\n        // your component here\n      )}\n\u003c/Query\u003e\n```\n\n### Using the useQuery Hook\n\nYou can also use `skip` with the `useQuery` hook:\n\n```\nconst { data: { someQuery: { someValue } = {} } = {} } = useQuery(firstQuery)\nconst variables = { var1: someValue }\nconst skip = someValue === undefined\nconst { data: secondQueryData } = useQuery(secondQuery, { variables, skip })\n```\n\n### Mutations\n\nUnlike queries, mutations involve specifically calling a function in order to trigger the request. This function returns a Promise that will resolve with the results of the mutation. That means, when working with mutations, you can simply chain the resulting Promises:\n\n```\nconst [doA] = useMutation(MUTATION_A)\nconst [doB] = useMutation(MUTATION_B)\n\n// elsewhere\nconst { data: { someValue } } = await doA()\nconst { data: { someResult } } = await doB({ variables: { someValue }\n```",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/4-Archives/AWS/Amazon-SES-Setup": {
     "title": "Amazon SES Setup",
     "content": "- Create new domain identity to be able to *send* emails.\n- Create new test email identity to be able to *receive* test emails.\n- Add domain eg. `subdomain.example.com`\n- Add **DomainKeys Identified Mail (DKIM)** DNS records\n\teg. CNAME xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx._domainkey.xxxxx-staging.opn.dev -\u003e xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.dkim.amazonses.com \n- Create IAM for _AmazonSESFullAccess_ (development only)\n- ![[Amazon-SES-request-production-access.png]] Request production mode to send actual emails (Sandbox mode cannot send emails)\n\n## Node.js development\n- `yarn add aws-sdk`\n\n# References\n- https://medium.com/@maciej.lisowski.elk/nodejs-and-amazon-ses-how-to-send-emails-from-your-application-5c24b1f9b67b\n- https://attacomsian.com/blog/amazon-ses-integration-nodejs/\n- https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/ses-examples-sending-email.html",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/4-Archives/Computer/Ryzen-Hackintosh-Specs-Research": {
     "title": "Ryzen Hackintosh Specs Research",
     "content": "November 28, 2020 - https://notebookspec.com/pc/8175463\nDecember 1, 2020 - https://notebookspec.com/pc/8184920\nDecember 10, 2020 - https://notebookspec.com/pc/8209709\n\nGeekbench\n- Old hackintosh : 800/2850\n- Current macbook (mid 2019) : 900/3350\n- 5600x  : 1500/7500\n- 5800x : 1500/8000-13000\n- 5900x : 1500/12000-16000\n\nhttps://dortania.github.io/OpenCore-Install-Guide/\n\nRam : https://www.jib.co.th/web/product/readProduct/36920\nMobo : (AM4) ASROCK B550 PHANTOM GAMING-ITX/AX https://www.lazada.co.th/products/mainbaord-am4-asrock-b550-phantom-gaming-itxax-i1509698267-s3989656319.html?spm=a2o4m.searchlist.list.14.355967bdtfqict\u0026search=1\n\n(AM4) ASROCK B550 PHANTOM GAMING-ITX/AX\nhttps://www.jib.co.th/web/product/readProduct/41968/1239/MAINBAORD--เมนบอร์ด--AM4-ASROCK-B550-PHANTOM-GAMING-ITX-AX\n6,960.-\nhttps://www.advice.co.th/product/mainboard/amd-am4-b550-/-am4-asrock-b550-phantom-gaming-itx-ax\n7100\n\nGigabyte Aorus b550i\nhttps://www.invadeit.co.th/product/motherboards/gigabyte/b550i-aorus-pro-ax-p051539/\n\n(AM4) MSI MPG B550I GAMING EDGE WIFI\nhttps://www.advice.co.th/product/mainboard/amd-am4-b550-/-am4-msi-mpg-b550i-gaming-edge-wifi\n5820\n\nCPU AMD AM4 RYZEN7 5800X\n15,300.- \n\nLIQUID COOLING COOLERMASTER MasterLiquid ML240L V.2 RGB\n2,150.-",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/4-Archives/Ruby/Quine": {
     "title": "Quine",
     "content": "```ruby\neval s=\"puts'eval s='+s.inspect\"\n```",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/4-Archives/ปรัชญาของ-IO": {
     "title": "ปรัชญาของ IO",
     "content": "- รู้ก่อน (See First)\n- ตัดสินใจก่อน (Decide First)\n- ปฏิบัติก่อน (Act First)\n- และปฏิบัติอย่างมีประสิทธิผลกว่า (Act more effectively)\n- จนสามารถเอาชนะความเชื่อและศรัทธา (Heart and Mind)",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/40-Keyboard": {
     "title": "40% Keyboard",
     "content": "Some people has seen me using [Planck Keyboard](https://olkb.com/collections/planck). In fact, I've 3 of them. The keyboard form factor is called \"40%\" which has only 4 rows and does not have function row or number row. To type them you'll need more modifier keys to trigger the additional layers. They're called `Lower` \u0026 `Raise` layers. When you press `Lower` modifier key with `Q` you'll get `!`, and `Raise + Q` you'll get `1`, for instance. They need more keystrokes but less finger travel.\n\nThe first Planck I had was the Rev. 3, which is also the first custom mechanical keyboard I had built. Apart from the bizarre and hard-to-master layout, I found that it was using [QMK Firmware](https://qmk.fm/), the most powerful keyboard firmware which you can customize \u0026 program the firmware however you like using code.\n\nI've built the [SuperDuper Mode](https://github.com/qmk/qmk_firmware/blob/master/users/narze/superduper.c) which was heavily inspired from [this](https://github.com/tekezo/Karabiner/blob/05ca98733f3e3501e0679814c3795d1cb57e177f/src/core/server/Resources/include/checkbox/simultaneouskeypresses_vi_mode.xml#L4-L10) and [this](https://github.com/jasonrudolph/keyboard#super-duper-mode). The idea is I can ditch all the arrow keys and use only keys on the home row for movements in all directions. It was the time when the old version of [Karabiner](https://github.com/tekezo/Karabiner) is not yet compatible with simultaneous keypress in macOS Sierra, so I have to move my SD mode to physical keyboard like the Planck.\n\nI saw someone stated that 40% keyboards are the [Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls) of keyboards. It takes time to learn to use, but once you've mastered it, then you can use all types of keyboards easily.",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/Atomic-Habits": {
     "title": "Atomic Habits",
     "content": "-   Tiny changes make a big difference\n    -   1% worse every day for one year = 0.03\n    -   1% better every day for one year = 37.78 times better\n-   Change your identity instead of just outcome, focus on who you wish to become\n    -   The goal is not to read a book, the goal is to become a reader.\n-   4 Stages of habit : Cue → Craving → Response → Reward\n-   4 Laws of behavior change\n    -   Make It Obvious (Inversion : Make It Invisible)\n        -   Make the cues of good habits obvious \u0026 visible, design your environment.\n        -   Reduce exposure of the cues of bad habits\n    -   Make It Attractive (Inversion : Make It Unattractive)\n        -   Temptation Bundling : Stack needs with wants\n        -   Reframe mindset : Highlight the benefits of avoiding bad habits\n    -   Make It Easy (Inversion : Make It Difficult)\n        -   Decrease steps between you and your good habits\n        -   Two minute rule : Start a habit which takes less than two minutes to do (Master the art of showing up)\n        -   Do onetime actions that lock in good habits eg. Unsubscribe from emails\n        -   Use commitment device eg. Use device to cut off internet at 10 PM\n    -   Make It Satisfying (Inversion : Make It Unsatisfying)\n        -   Instant gratification teaches your brain to repeat, so make good habits feel immediately successful\n        -   Habit tracking : Feel satisfy on making progress\n        -   Don't Break The Chain + Never Miss Twice\n        -   Habit Contract : Find accountability partner to make bad habits unsatisfying\n-   Pick the right habit, choose the right field of competition\n-   The Goldilocks Rule : Peak motivation when working on just right difficulty\n-   Keep improving\n    -   Habits + Deliberate Practice = Mastery",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/Books": {
     "title": "Books",
     "content": "I like to read productivity-related (some are \"self-help\") books. Recently I started reading science fiction as well.\nI often read on my [Onyx Boox Nova](https://www.boox.com/boox-nova/) using Kindle app or PDF reader app.",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/CoderZoo": {
     "title": "Untitled Page",
     "content": "",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/Coding-Workflow": {
     "title": "Coding Workflow",
     "content": "## Rule of Thumb\n\n-   Almost everything I do start with command line interface. Now I use [Kitty](https://github.com/kovidgoyal/kitty) with Zsh. [Here are my Dotfiles](https://github.com/narze/dotfiles)\n-   Since I have 3 macOS machines (2 Macbooks \u0026 1 Hackintosh desktop), I sync my non-dotfiles with [Syncthing](https://syncthing.net/) and have a backup NAS at home.\n\n## Jumping around in command line\n\n-   I use [Zoxide](https://github.com/ajeetdsouza/zoxide) to remember paths I use often, eg. run `z dot` to change directory into `/Code/narze/dotfiles` since I previously access it.\n\n## Start / continue working on GitHub projects\n\nAll my code stays in `~/Code/` of every machines I have. Sometimes I have to switch the machine or I left my main Macbook at work. I use [`ghq`](https://github.com/x-motemen/ghq) to clone \u0026 navigate the repositories. You can configure this tool to use GitLab as well.\n\nIf I want to clone github.com/narze/dotfiles, I use the command :\n\n```\nghq get -l -p narze/dotfiles\n```\n\nThe code will be cloned to `~/Code/github.com/narze/dotfiles` and automatically `cd` me into it (If already cloned will just run `cd`.)\n\n## Text Editor\n\nStrangely, I'm still using VSCode instead of Vim/Emacs\n\n## Git\n\nFor commands I use, see [How I git in 2020](How%20I%20git%20in%202020.md)\n\nFor commit messages I used [Gitmoji](https://gitmoji.carloscuesta.me/). But changed to [Conventional Commits](https://www.conventionalcommits.org/).\n\nMy new repos will use `main` rather than `master` default branch name.",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/Colemak-Mod-DHm": {
     "title": "Colemak Mod-DHm",
     "content": "After 7 years of switching to Colemak keyboard layout, I decided to move on to a new layout.\nI have seen [Mod-DH](https://colemakmods.github.io/mod-dh) for quite a while. It is an improvement on Colemak which will be easy for me.\n\nFor reason why I want to switch although I already achieved 100 words per minute on standard Colemak, is I just want to challenge myself and see how long I will take to rewire my muscle memory and get the typing speed back on track with the new layout.\n\n## Little problems with standard Colemak\n\nI can confirm that Colemak is already awesome. When compared with Qwerty, the keys oftenly used stay within home row and important shortcut keys are still in place (Z,X,C,V,A).\nHowever, Mod-DH improves it by moving D \u0026 H keys to bottom row but in easier position than on the home row but in the center which needs more lateral movement of the fingers.\n\nThe most common word which use letter T like `the` will use less effort in Colemak-DH than standard Colemak.\n\nOn 2017 Mod-DH made a minor revision which swaps the K and M but I prefer the first version which later called Colemak-DHm which still has M on the home row and K will be the same place as standard Colemak.\n\n## Switching\n\nThe total keys moved from standard Colemak to Colemak Mod-DHm is 6 Keys (B,D,G,H,M,V). I've highlighted them in my [Codepen](https://codepen.io/narze/pen/OJNLNKg), printed \u0026 attached it to my monitor to practice.\n\nOn first day I got around 40wpm on [10ff](http://10fastfingers.com/), and I use [Colemak Academy](https://www.colemak.academy) to practice mainly on D \u0026 H.\nI also noticed that with Mod-DHm, there are more words consists of home row letters plus D+H. I also use this mod at work \u0026 try not to type it wrong.\nI still use standard Colemak layout but swap the modded keys using [Karabiner Elements](https://karabiner-elements.pqrs.org).\nThe hardest key on my switching journey is `V`, since I use `⌘ + V` all the time. I have to remap `⌘ + V` back from `B` to original position.\n\nAfter first week, I achieved 80wpm on average (I create [a new account on 10ff](https://10fastfingers.com/user/2163743/) to track my progress.)\nHowever, my speed on standard Colemak dipped from 100-ish to 50wpm, so I can't turn back anymore.",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/Collectors-Fallacy": {
     "title": "Untitled Page",
     "content": "",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/Command-Line-Aliases": {
     "title": "Command Line Aliases",
     "content": "I extensively use command line to navigate stuff and run commands, so I keep track of commands I ran often, then make aliases to reduce them\n\n```shell\nzsh_stats () {\n\tfc -l 1 | \\\n\t  awk '{CMD[$2]++;count++;}END { for (a in CMD)print CMD[a] \" \" CMD[a]/count*100 \"% \" a;}' | \\\n\t  grep -v \"./\" | \\\n\t  column -c3 -s \" \" -t | \\\n\t  sort -nr | nl | head -n20\n}\n```\n\nThis command will output the top 20 commands I use, here is the result.\n\n```\n     1\t598  29.9%   s\n     2\t205  10.25%  yarn\n     3\t183  9.15%   p\n     4\t123  6.15%   m\n     5\t62   3.1%    gp\n     6\t44   2.2%    n\n     7\t44   2.2%    gl\n     8\t42   2.1%    v\n     9\t42   2.1%    gaa\n    10\t32   1.6%    z\n    11\t31   1.55%   cd\n    12\t30   1.5%    gco\n    13\t29   1.45%   gr\n    14\t28   1.4%    c.\n    15\t24   1.2%    ls\n    16\t22   1.1%    rm\n    17\t21   1.05%   npm\n    18\t20   1%      g\n    19\t19   0.95%   lt\n    20\t17   0.85%   l\n```\n\nMany commands are from `git`, such as `s` is aliased to `git status -sb`, `p` to `git add -A -N \u0026\u0026 git add -p`, and `m` is `git commit -m`. These save me a couple hundred of keystrokes every day.\n\nYou can see most of my alises in the [Dotfiles](https://github.com/narze/dotfiles/blob/master/zsh/config/00_aliases.zsh). But I recommend you to build it yourself within `.bashrc` or `.zshrc` first. Since copying from other people will make it confusing and hard to memorize.",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/Create-review-and-merge-GitHub-Pull-Requests-from-command-line-only": {
     "title": "Create, review, and merge GitHub Pull Requests from command line only",
     "content": "Now you can manage all the GitHub pull request workflows from using only the command line via it's [official CLI][1]. Use homebrew command to install on macOS.\n\n```shell\nbrew install gh\n```\n\n## Creating PR\n\n```shell\ngh pr create\n```\n\nYou will be prompt to enter information such as PR title, description, then you'll get the PR number to view on web, or you can open on browser by using the `view` command with `-w` flag.\n\n```shell\ngh pr view -w\n```\n\n## Reviewing PR\n\nTo review any pull requests, the first step is to checkout the code to review. You can get the PR number from web, or using this command to list all the PRs.\n\n```shell\ngh pr list\n\nShowing 1 of 1 open pull request in narze/thank-u-nextjs\n\n#1  feat: replace @tailwindcssinjs/macro with twin.macro  twin-macro\n```\n\nThen checkout the code for reviewing.\n\n```shell\ngh pr checkout 1\n```\n\nAfter reviewing, take action to the PR, and choose to comment, approve, or request changes.\n\n```shell\ngh pr review\n\n? What kind of review do you want to give?  [Use arrows to move, type to filter]\n\u003e Comment\n  Approve\n  Request changes\n```\n\n## Merging PR\nTo merge a PR, simply use `gh pr merge`, and choose the merge method.\n\n```shell\ngh pr merge\n\n? What merge method would you like to use?  [Use arrows to move, type to filter]\n\u003e Create a merge commit\n  Rebase and merge\n  Squash and merge\n```\n\nAlternatively you can reject and close the PR without merging.\n\n```shell\ngh pr close\n```\n\n## Closing\n\nYou can also use other subcommands like `release`, `repo`, `alias`, and many more. Type only `gh` to see all available commands.",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/Data-Oriented-Programming": {
     "title": "Untitled Page",
     "content": "",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/Debug-less-development": {
     "title": "Debug-less development",
     "content": "# Debug-less Development\n\nAre you using `console.log` all the time when you create websites?\n\nAre you adding breakpoints in every if-else blocks in IDE?\n\nI saw some people tried to print everything all the time they write code. I think these behaviors are not making them be better developers, but worse.\n\n## Why?\n- It slows you down\n- It leaks data\n- It makes code dirty\n- It lowers your trust in your code\n\n## What can I do instead?\n- Write tests instead\n- Write better \u0026 cleaner code\n- Make printing logs your last resort\n- Use debugging tools to \"debug\"",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/Digital-Detox": {
     "title": "Digital Detox",
     "content": "Every once in a while, I slipped into the world full of distractions, named the Internet. Like everyone does, I take hours viewing Youtube videos, scroll through Facebook posts, reading Tweets, and so on. All of them are neatly optimized that you'll keep checking them out, again and again.\n\nI stumbled upon this idea by [Andrew Kirby's Dopamine Detox][1] (Yeah, on his Youtube). The rule sounds easy but really hard to do. That is, don't do anything that gives you Dopamine. Which in the extreme level, includes eating as well. I tried it once and it works like a charm. But I have to admit that it is difficult since I still have to eat, feed dogs, write blogs. So I make a subset of Dopamine Detox. It's called Digital Detox.\n\nThe rule is more simple, of course. Just don't touch or use anything which distracts you digitally. I tried to do it twice a month, in the weekends. \n\n## My detoxification day\nBefore the day, I would prepare myself to reduce external factors and temptation to use my smartphone or computer.\n\n- Prepare a book to read, e-book reader is OK but make sure you have the book file and disable the network afterward.\n- Disable or mute all app notifications. I made an exception for the alarm clock app though.\n- Tell your friends or family that you'll be unavailable for a day.\n\nThen on the day after I put of the alarm. I leave my phone there and continue the day without it. Read the book you want to, write articles (I have a disconnected Macbook Air for this), meditate, play with my dogs, do chores.\n\n## Reflection\nThe Digital Detox helps me getting back on track. Sometimes I spent many hours a day watching Youtube and getting less sleep, and it affected the other day. Furthermore, it helps me focus more on doing things. I can read more than my other days as I tend to stop after a few pages. Lastly, I can feel the Dopamine rush when I can finally check the unread messages in the end of the day.\n\n[1]: https://www.youtube.com/watch?v=_vcGF3HqZXg",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/Digital-Garden": {
     "title": "Untitled Page",
     "content": "What you're reading here is not a blog, it's a \"digital garden\".\n\nIt consists of posts like blog, but they can grow, like plants.\n\nAll of the posts will not be sorted chronogically and paginated to be forgotten over time (that sounds sad.)\n\nAll of the posts can be updated when I have more ideas to add, some will even be tagged with work-in-progress,\nlike the small seeds waiting for the water \u0026 nutrition.\n\nIf you're interested in building your digital garden like mine, see [Joel Hook's post][1].\n\nI'll keep planting more posts, so stick around!\n\n[1]: https://joelhooks.com/digital-garden",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/Dotbot": {
     "title": "Dotbot",
     "content": "I keep updating my [Dotfiles](https://github.com/narze/dotfiles) to sync all of my Mac machines. Dotfiles are configuration files on the system which can be edit and share as a plain text. They're called \"dotfiles\" because they typically have leading `.` to make them hidden from the file system by default. Dotfiles can be built from scratch, or using tools like [rcm](https://github.com/thoughtbot/rcm), [Dotbot](https://github.com/anishathalye/dotbot), or even [Ansible](https://www.ansible.com/). Having shared Dotfiles availble on GitHub means I can setup a new Mac with all the apps I want using only a few commands. I use `make` command which calls Dotbot to install things for me, including :\n\n-   Install essential package managers\n    -   [Homebrew](https://brew.sh/) package manager for both command line tools and GUI apps (casks)\n    -   [mas](https://github.com/mas-cli/mas) for apps in Mac App Store\n    -   [asdf](http://asdf-vm.com/) for managing multiple programming languages with multiple versions\n-   Symlink all the dotfiles to `~` :\n    -   Zsh : [`.zshrc`](https://github.com/narze/dotfiles/blob/master/zsh/zshrc) with [Zinit](https://github.com/zdharma/zinit), an ultra-fast Zsh plugin manager (Much faster than Oh-My-Zsh!)\n    -   [Powerlevel10k](https://github.com/romkatv/powerlevel10k)\n    -   [Yabai](https://github.com/koekeishiya/yabai) - The only working tiling window manager for macOS.\n    -   Tmux : Use gpakosz's [`.tmux`](https://github.com/gpakosz/.tmux) with [Tmuxinator](https://github.com/tmuxinator/tmuxinator) to manage complex Tmux sessions\n    -   [Karabiner Elements](https://karabiner-elements.pqrs.org/) : The ultimate keyboard customizing app which I have been using for so many years. However, I use [Goku](https://github.com/yqrashawn/GokuRakuJoudo) to generate the Karabiner JSON file from the [.edn format](https://github.com/narze/dotfiles/blob/master/etc/karabiner.edn)\n-   For some GUI apps which does not support Dotfiles, I sync their settings with [mackup](https://github.com/lra/mackup) with [Syncthing](https://syncthing.net/).",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/Generating-an-optimized-Thai-keyboard-layout": {
     "title": "Generating an optimized Thai keyboard layout",
     "content": "I built a new [Thai keyboard layout][1] called [Manoonchai](https://manoonchai.com)\n\n## Preparation\n\nSince I'll use [Rust][2] for this project and I'm relatively new to this language, I'll start from gathering the corpus from various sources and find out the most frequently used keys are. The code is simple, just scanning all the words from the source, count, then sort it like [this](https://gist.github.com/narze/9a3b71757bd3915387397b2bbaa8e0c8). The data is not quite useful, but it gives the idea which keys should be in the home row.\n\n## Typing Effort Model\n\nNext, I've planned to create the typing effort model similar to [Carpalx][3]. But the finger travel distance will be altered a bit to suit my use on [40% Keyboard][4]. When I got the model working I'll train with the text from all the sources, including my chat logs.\n\n## Triads\n\nI get some Thai corpus data (eg. [Wisesight][5], [Wongnai][6]) then generate the triads to see which 3-character substrings are being used the most ([Code][7]). The triads will be [one of the parameters][8] to calculate the typing effort.\n\nHere are the sample triads I got from the corpus.\n\n### Wongnai : Top 30\n\n```\n ้าน : 134642\n ร้า : 119805\n ที่ : 118052\n ไม่ : 102900\n ่อย : 82040\n ได้ : 73344\n นี้ : 72915\n มาก : 69226\n เป็ : 66661\n แต่ : 66436\n ป็น : 62878\n เลย : 62262\n ว่า : 59965\n ค่ะ : 57345\n ข้า : 53751\n ั่ง : 51812\n รับ : 51245\n ร่อ : 50937\n อร่ : 50575\n นนี : 48245\n หาร : 44594\n ครั : 44076\n าหา : 43952\n และ : 43314\n อาห : 43283\n ื่อ : 41649\n ให้ : 41496\n น้ำ : 40458\n ทาน : 40247\n ่าง : 38617\n```\n\n### Wisesight : Top 30\n```\n ที่ : 10920\n ไม่ : 10329\n ได้ : 7626\n 555 : 6047\n รับ : 5944\n ว่า : 5886\n นี้ : 5704\n การ : 5318\n ื่อ : 5292\n ให้ : 4747\n ล้ว : 4504\n เป็ : 4498\n ครั : 4400\n แล้ : 4359\n ป็น : 4331\n เลย : 4298\n ้อง : 4186\n กิน : 3957\n แต่ : 3957\n กัน : 3939\n ของ : 3727\n และ : 3341\n มาก : 3283\n วัน : 3231\n ค่ะ : 3181\n กับ : 3085\n ประ : 3003\n ่าง : 2989\n ั้ง : 2978\n ้าง : 2968\n```\n\nSome of the words are on the both list although the context are not the same (Restaurant reviews VS Social media messages.)\n\nThe rest can be read on my [Medium](https://medium.com/@narze)\n\n[1]: /toward-a-more-useful-thai-keyboard-layout\n[2]: https://www.rust-lang.org\n[3]: http://mkweb.bcgsc.ca/carpalx/?typing_effort\n[4]: /40-percent-keyboard\n[5]: https://github.com/PyThaiNLP/wisesight-sentiment\n[6]: https://github.com/wongnai/wongnai-corpus\n[7]: https://github.com/narze/Manoonchai/tree/main/analyzer\n[8]: http://mkweb.bcgsc.ca/carpalx/?typing_effort#triads",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/Hit-that-snooze-but-once": {
     "title": "Hit that snooze, but once",
     "content": "I'm not a morning person, and I will over-sleep all the time if I don't set the alarm. Moreover, like many people does, I set up a lot of snoozes too, and the result is that I will always wake up, hit the snooze button, then go back to sleep. I've tried configure the alarm app to limit the number of snoozes. But that doesn't help as much, as I will reach the snooze limit anyway.\n\nDisable snooze like many online articles have suggested? That works, but whenever it hit me out of my sleep cycle range, it will make me so groggy and make the day worse.\n\nOne day, I have came up with a way to fix this once and for all, by allowing the snooze button to be hit, but only once. By the time the alarm rings, I interpret that as \"Be prepare to wake up by the next alarm\", then I hit the snooze, go back to bed, but with less intention to stay slept. Sometimes I will think about things during this time, such as what will I do after getting up, what did I've just dreamed. These process will make me more \"ready\" for the day than waking up immediately.\n\nSo try to set the snooze limit to one time, if that is not possible for your alarm app, set 2 alarms with 5-10 minute interval instead.",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/Home-cluster-note": {
     "title": "Untitled Page",
     "content": "# Install argocd-autopilot on raspi k3s\n- Create blank git repo e.g. https://github.com/narze/home-cluster\n- Create Github Personal Access Token https://github.com/settings/tokens/new\n- Install argocd-autopilot `brew install argocd-autopilot`\n\n```\nexport GIT_TOKEN=your_github_pat\nexport GIT_REPO=https://github.com/narze/home-cluster\n\nargocd-autopilot repo bootstrap\n```\n\n- Wait for argocd to be setup\n```\nwatch kubectl get pods -n argocd\n```\n\n# argocd \u0026 argocd-autopilot does not officially support arm64 arch yet!\n\nF this shit\n\n# References \n- https://www.arthurkoziel.com/setting-up-argocd-with-helm - Blog post to install argocd with helm and manage itself\n- https://github.com/thspinto/rpi-cluster - An example to get it work with Raspberry pi (uses custom built image `alinbalutoiu/argocd`)\n- https://blog.alexellis.io/test-drive-k3s-on-raspberry-pi/\n- https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/routing-to-tunnel/kubernetes",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/How-I-Sleep": {
     "title": "How I Sleep",
     "content": "I am a sleepy person, on weekends I sleep for 9-12 hours. Though my deep sleep rate is more than average (30% of sleeping time). But on work days I certainly cannot sleep that much.\n\nI tried many techniques to decrease my long sleep time. The methods are not as different as what other people say about how to improve sleep quality.\n\n-   No caffeine afternoon\n-   No alcohol\n-   No food at night\n-   No screen time 2 hours before sleep (This one I can't...)\n-   Exercise regularly\n-   Sleep \u0026 wake at the same time, every day\n\nAll of these works OK, but there's one thing that really helps me to sleep only 6-7 hours a day. It is the Power Nap.\n\n## Power Nap\n\nEvery work day I will to go office's couch at the same time (3PM for me). Then I'll set my smart watch alarm, cover my eyes, and sleep. The Power Nap time may vary from 15-30 minutes. I experimented and found that 25 minutes work best for me. This helps me \"reset\" the energy level and work more efficiently until the day ends.\n\nHowever, I have to make sure that I don't nap more than 30 minutes, or I will be so groggy after I wake up.\n\nFurthermore, I will finish my coffee first, to make the nap be the [Coffee Nap](https://www.sleepadvisor.org/coffee-nap). The caffeine will kick in just the time I wake up, and make the nap more effective.",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/How-I-git-in-2020": {
     "title": "How I git in 2020",
     "content": "---\n\nInspired by [this post](https://daniel.haxx.se/blog/2020/11/09/this-is-how-i-git), this is my take on how I use git.\n\n## Command line!\n\nUsing Sourcetree is so 2010 😜 Some people said to me that they can choose only the files they want to stage and commit. Hold my beer!\n\n## Enter `git add --patch`\n\nThis lesser-known command will make you select \"hunks\" interactively, for example:\n\n```shell\ndiff --git a/test/pages/index.test.tsx b/test/pages/index.test.tsx\nindex d85854b..2b10a47 100644",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/How-I-tmux": {
     "title": "How I tmux",
     "content": "I'm a fan of [tmux](https://github.com/tmux/tmux). However, I hardly use `tmux` alone without these tools.\n\n## [.tmux](https://github.com/gpakosz/.tmux)\n\nI good tmux config for starter. Easy to use, and powerful. Powerline is included.\n\n## [Tmuxnator](https://github.com/tmuxinator/tmuxinator)\n\nI don't like to detach and attach sessions or use [`tmux-resurrect`](https://github.com/tmux-plugins/tmux-resurrect) / [`tmux-continuum`](https://github.com/tmux-plugins/tmux-continuum). I like to start a project with the same set of commands every time. So I use [Tmuxinator](https://github.com/tmuxinator/tmuxinator) to manage sessions with Yaml-formatted config instead.\n\nThis is the sample config for Tmuxinator, which runs 3 instances of `yarn` at once.\n\n```yaml\nwindows:\n  - editor:\n       layout: main-vertical\n       panes:\n         - \n         - yarn run e2e\n         - yarn run test\n   - server:\n       layout: main-vertical\n       panes: \n         - yarn run dev\n```\n\n## My Key Bindings\n\nI didn't use `Ctrl-A` or `Ctrl-B` as prefix like other people. I rebind the prefix to `Ctrl-;` instead (It is `Ctrl-O` on [Colemak DHm](https://monosor.com/colemak-mod-dhm)). Moreover, I use Ctrl + vim movement keys to switch windows \u0026 panes.\n\nSee my current config [here](https://github.com/narze/.tmux/blob/master/.tmux.conf.local).",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/How-much-does-making-cold-brew-coffee-save": {
     "title": "How much does making cold brew coffee save",
     "content": "I forget the number all the time, so I'll put it here.\n\nCoffee beans (250g) : 120 THB / bag 1 bag of coffee can do around 3 batches of cold brew 1 batch of cold brew = 4 shots of coffee (no milk) so it will be 10 THB / cup\n\nWater : Around 3 THB / Litre \u003c 0.5 THB / cup so I'll skip this\n\n2 litres of milk (Meiji) : 90 THB 1 cup uses 250ml so around 12 THB / cup\n\n1 bottle of vanilla syrup : 300 THB I don't know exactly how many cups it can make, but the whole bottle takes around a month, so it is 5 THB / cup\n\nTypical coffee (Amazon) : 60 THB / cup\n\nSaving 60 - (10 + 12 + 5) = 27 THB / CUP\n\nMe \u0026 my wife drink 1 cup per day -\u003e 60 cups per month\n\nTo summarize, we saved 27 * 60 = 1620 THB per month!",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/Ideas": {
     "title": "Ideas",
     "content": "On what I would do here\n\n- Fix image\n- Blog entry about setting this site up, maybe should be on [Medium](Outlets.md)?\n- TILs\n- PARA Structure\n- Meta page about this site \n\t- Obsidian\n\t- Rewrite plans using SvelteKit \u0026 Tailwind\n\t- Add to webring \n- Learn In Public\n- Fix image links",
-    "lastmodified": "2022-03-03T14:47:20.502438523Z",
+    "lastmodified": "2022-03-04T03:46:57.558125451Z",
     "tags": null
   },
   "/Imperfect-Productivity-Routine": {
     "title": "Imperfect Productivity Routine",
     "content": "It's hard to keep tracking and doing productive activities, especially when you want to do many things every day. I tried and failed so many times. Sometimes they worked the most a week or two, then I tend to drop them one by one. Before I know it I'm back at the starting point again.\n\nI think the problem is I will lose motivation when I miss to do any of them just once.\n\nThen one day, I thought and admitted that they don't have to be perfect, skipping some of the things will not end the world. There's always be tomorrow and it's better doing less than standing still and lose all the momentum you got along the way.\n\nI have an idea to make a list of what I want to do daily or every other day, then do it at least one of them, and at most 80% of them. This is the example of the list.\n\n-   Sleep at least 6 hours, and wake in the morning (This should be skipped in weekends.)\n-   Do morning chores, like cleaning overnight dishes, tidy up the desk.\n-   Make a new batch of cold-brew coffee, or water kefir.\n-   Light exercise (5-10 sets of kettlebell, push-ups)\n-   10-minute meditation\n-   Maintain \u0026 review tasks list\n-   Email inbox zero\n\nI used to try hard to do all of them every morning, and they will mostly fail when I wake up late, then I feel bad about it, then the progress stopped.\n\nBy making the routine more slack and imperfect, will make the progress easier and more doable in the long run.",
-    "lastmodified": "2022-03-03T14:47:20.514438959Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   },
   "/Maintaining-Momentum": {
     "title": "Maintaining Momentum",
     "content": "The key to keep doing what you want to do, is to do it less, but frequently.\n\nIt is what I do in [100 Days of Writing](100%20Days%20of%20Writing.md). I keep it short but try to not skip a day. Imagine that exercising or reading 2 hours stright at once is harder than 15-30 minutes a day, but every day. Not only that you're likely to want to skip it, but you would also be so exhausted in the next day if you do it so hard.\n\nAnother technique I'd like to suggest is to leave the work undone so that you can continue to do it tomorrow. It works well on some cases, like in writing code, I can leave the source code unpushed or commented it with `Work in progress`.\n\nAirplanes cannot fly before up to a certain speed.\n\nRome was not built in a day.\n\n[Building habits](Atomic%20Habits.md) takes time, but keep making small changes to gain the momentum then that'll make you unstoppable.",
-    "lastmodified": "2022-03-03T14:47:20.514438959Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   },
   "/Multiple-Computers": {
     "title": "Multiple Computers",
     "content": "# Benefits from having multiple computers\nTo be clear, this doesn't mean to using multiple computers at the same time. In this context is to having multiple instances of similar computers at more than one place like your home, your office, in the cloud, etc.\n\nI [use][1] macOS to work \u0026 play with code. I try to make all of my computers' file structure, apps and tools be exactly the same. Here's why.\n\n## Portability\nHaving the same computers means I don't have to bring all the work home with me. In the past I used Dropbox to share the code among them and continue working at home with a PC. Nowadays I just push them on any Git repositories and pull it from another machine to start working. In the near future I think I can even code on the cloud easily with online tools like [CodeSandbox][2] or [GitHub Codespaces][3].\n\n## Integrity\nSince I have the copy for tools \u0026 all the work I have. I can restore them on any computer at will. Even if my Macbook dies right now, I will have no worries about data and I will be ready in a few hours on a new Macbook.\n\n## Getting better as developer\nTo maintain the state of having multiple ready-to-work machines is not simple. You have to keep building \u0026 improving the workflow. The [Dotfiles][4] script should work on every computers you have including the newer ones. Adding new tools or apps means updating these files, and run against all of your computers. I maintained my dotfiles for years, reworked them countless times, moved Oh-My-Zsh to ZPlug, realized that ZPlug is [very slow][5] and changed to Zinit, restarting everything from scratch, adding Ansible, switched to [Dotbot][6], and so on. I have learned many things in the process of making the dotfiles useful for me and maybe someone else who have forked my code.\n\n[1]: https://monosor.com/uses\n[2]: https://codesandbox.io\n[3]: https://github.com/features/codespaces\n[4]: https://github.com/narze/dotfiles\n[5]: https://jdhao.github.io/2019/10/08/zsh_plugin_managers_compare/\n[6]: https://github.com/anishathalye/dotbot",
-    "lastmodified": "2022-03-03T14:47:20.514438959Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   },
   "/Obsidian": {
     "title": "Obsidian",
     "content": "## Links\n- https://www.keepproductive.com/blog/obsidian-beginners-guide",
-    "lastmodified": "2022-03-03T14:47:20.514438959Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   },
   "/Odyssey-Plan": {
     "title": "Odyssey Plan",
     "content": "Odyssey Plan is a tool to help visualizing and designing your life in the next 5-10 years. You might have been asked about what will you be in the next 5 years. But doing the Odyssey Plan will open up the alternative possibilities in your life.\n\nIn short, write or draw out these 3 scenarios:\n\n1.  The current 5-year plan. Year by year.\n2.  If the first plan can't happen. What will you do instead?\n3.  If you don't have to think about time and money at all. What will you do?\n\nSee more detail out Odyssey Plan in [this Youtube playlist](https://www.youtube.com/playlist?list=PLjwFGCpXfsbeqOfcEdEWWzsgTvPDB-ACN) by Stanford Life Design Lab, or check out the book [Designing Your Life](https://designingyour.life/)",
-    "lastmodified": "2022-03-03T14:47:20.514438959Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   },
   "/Outlets": {
     "title": "Outlets",
     "content": "I tried to post things separately, since I wants to try everything new to cope with my FOMO, maybe?\n\n- https://garden.narze.live : This site, the name can be change once I'm satisfied with this current setup.\n- https://gitter.im/thai-devs/community : Tech/dev related links, a small community with my Thai internet friends \u0026 coworkers combined.\n- https://github.com/narze : All my open-source projects lives (and dies) here. Most of them are built with my [Svelte one-page site template](https://github.com/narze/single-page-svelte).\n- https://monosor.com (Inactive) : I tried to blog in English, but it's not fun to use Gatsby, I'm gonna try moving it or merge with this [Second Brain](Second%20Brain.md)\n- https://monosor.dev (Inactive) : I created I Thai coding tutorials which covers basic TypeScript and Ruby.\n- https://twitter.com/narze : Rants in Thai language.\n- https://facebook.com/narze : Personal Stuff.\n- https://linkedin.com/in/manassarn : Hire me I want to write Ruby.\n- https://narze.medium.com : Thai Blogs",
-    "lastmodified": "2022-03-03T14:47:20.518439105Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   },
   "/PARA-Method": {
     "title": "PARA Method",
     "content": "A system for organizing digital information fortelabs.co/blog/para",
-    "lastmodified": "2022-03-03T14:47:20.518439105Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   },
   "/Personal-OKRs": {
     "title": "Personal OKRs",
     "content": "New year's resolutions are not working for me. I used to set goals every year, and then I quit doing them within 2-3 months. It was not just I'm lazy, but when a month has passed, some of the goals I set became unnecessary or unrelevant, or I got bored and changed my mind from some of the goals I previously want to achieve. Moreover, I don't want to wait 3-6 months to start doing something on the new year's date. So I adopt [OKRs](https://en.wikipedia.org/wiki/OKR) and set new goals every 3 months instead. I currently use [Weekdone](https://weekdone.com/) to track my personal OKRs and update it every other day. I will have only 3 objectives per quarter so they won't be too much, each objective will have 3-5 Key Results which are not too easy but achieveable.\n\nHere are some of my OKRs\n\n-   Improve myself as a better frontend developer\n    \n    -   Finish #100DaysOfCode with no more than 10 days skip\n    -   Create 10 websites \u0026 deploy to cloud\n    -   Create 3 working open source projects which have 10 Github Stars each\n    -   Learn 8 testing javascript courses\n-   Get good at reading\n    \n    -   Read 10 books\n    -   Write 10 articles about books I read\n-   Be a better writer/blogger\n    \n    -   Write 50 articles/posts\n    -   Setup email subscription \u0026 get 50 subscribers",
-    "lastmodified": "2022-03-03T14:47:20.518439105Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   },
   "/Pomodoro-Workflow": {
     "title": "Pomodoro Workflow",
     "content": "[Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) is one of the productivity method I use all the time. It's easy but very effective. I use this technique whenever I'm working, both in and out of office. The current app I use for timing is [Time Out](https://www.dejal.com/timeout). There are many Pomodoro apps but I like this once since it will block my screen, forcing me to take breaks.\n\nMy ratio is 30-minute work per 6-minute break (Standard is 25:5). I tweak so I can fit 4 sessions before and after [Power Nap](https://monosor.com/how-i-sleep)\n\nWhen I take breaks I'll do things to keep my mind out of work eg.\n\n-   Walk around\n-   Re-fill water bottles\n-   Quick chats with co-workers\n-   Toilet\n-   Practice typing on [Monkeytype](https://monkeytype.com/) (You can set Time Out to load any website on breaks.)\n-   Check emails on mobile phone\n-   Or just close my eyes until the break is finished\n\nThe Pomodoro technique really helps me on focusing, and keeping my energy throughout the day.",
-    "lastmodified": "2022-03-03T14:47:20.518439105Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   },
   "/Quartz": {
     "title": "Quartz",
     "content": "The [[Digital Garden]] engine behind https://garden.narze.live : https://quartz.jzhao.xyz\n\n## Upgrading Quartz\n- `git remote add upstream git@github.com:jackyzha0/quartz.git`\n- `git fetch upstream`\n- `git checkout upstream/hugo -- layouts .github Makefile assets config.toml data layouts static`\n- Review \u0026 add changes `git add -p`",
-    "lastmodified": "2022-03-03T14:47:20.518439105Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   },
   "/Relentless": {
     "title": "Relentless - Tim Grover",
     "content": "Tim classifies people into 3 groups: Cooler, Closer, and Cleaner. Then focus on what Cleaner thinks and does to achieve successful career, like Micheal Jordan, Kobe Bryant, and Dwyane Wade for instance. Alghouth I don't know much of NBA or basketball words like \"Ring\", or \"Game Four\" to it confuses me a little bit. Overall this book inspired me to improve myself and be a Cleaner one day.",
-    "lastmodified": "2022-03-03T14:47:20.518439105Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   },
   "/Second-Brain": {
     "title": "Second Brain",
     "content": "# Second Brain\nA term coined by [Tiago Forte](https://fortelabs.co). It's about capturing everything in a system to reduce information overload. He also created [PARA Method](/PARA%20Method.md).\n\nI used most of the tips from https://www.swyx.io/obsidian-brain to setup Second Brain on [Obsidian](/Obsidian.md). However, I didn't pay for [Obsidian Publish](https://publish.obsidian.md) and use [Quartz](https://quartz.jzhao.xyz) and Github Pages.\n\n## Notable Second Brains\n- https://github.com/sw-yx/brain\n\n## Links\n- https://aseemthakar.com/how-to-build-a-second-brain-as-a-software-developer/\n- https://www.zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/",
-    "lastmodified": "2022-03-03T14:47:20.518439105Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   },
   "/TailwindCSS": {
     "title": "TailwindCSS",
     "content": "[TailwindCSS](https://tailwindcss.com) is my favorite CSS framework right now. But for common elements like buttons or input forms I use [DaisyUI](https://daisyui.com) as a component framework which extends TailwindCSS to get the job done.",
-    "lastmodified": "2022-03-03T14:47:20.518439105Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   },
   "/Test/test": {
     "title": "Untitled Page",
     "content": "Test link to upper level pages like [Ideas](../Ideas.md) or another folders like ![KINGrinder](/Images/KINGrinder.png)",
-    "lastmodified": "2022-03-03T14:47:20.518439105Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   },
   "/The-Three-Body-Problem": {
     "title": "The Three-Body Problem - Cixin Liu",
     "content": "A chinese SF novel about (no-spoilers) Chinese history in time of [Cultural Revolution](https://en.wikipedia.org/wiki/Cultural_Revolution), an astrophysicist, a Virtual Reality game, and how they related to some weird phenomenon from unknown source. The book is the first book of three-book trilogy in [Remembrance of Earth's Past](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past) which I have not read all of them yet.",
-    "lastmodified": "2022-03-03T14:47:20.518439105Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   },
   "/Uses": {
     "title": "Uses",
     "content": "Everything I use. Migrated from https://monosor.com/uses\n\n## Coding\n- [Dash](https://kapeli.com/dash) - Offline code \u0026 API documentation\n- [Kitty](https://sw.kovidgoyal.net/kitty)\n- [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans) ([Nerdfont patched](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FantasqueSansMono)) \u0026 [IBM Plex Sans Thai](https://github.com/IBM/plex/tree/master/IBM-Plex-Sans-Thai)\n- [Visual Studio Code](https://code.visualstudio.com) with [Aura Dark theme](https://github.com/daltonmenezes/aura-theme)\n\n## Languages \u0026 Frameworks\n- Svelte\n- Ruby \u0026 Ruby on Rails\n- Javascript \u0026 Node.js\n- TypeScript\n- React\n- Bootstrap\n- Tailwind CSS\n- Rust\n- Terraform\n\n## Command Line\n- [asdf](https://asdf-vm.com) to install \u0026 manage programming language versions (Ruby, Nodejs, Python, Go, etc.)\n- [Chezmoi](https://www.chezmoi.io)for my [Dotfiles](https://github.com/narze/dotfiles)\n- [Fish](https://fishshell.com) - Alternative command line shell than Zsh, I still use Zsh though.\n- [ghq](https://github.com/x-motemen/ghq) - Clone \u0026 access Git repos\n- [Homebrew](http://brew.sh) - macOS Package Manager\n- [Mackup](https://github.com/lra/mackup) - Backup \u0026 restore app configurations\n- [Mas](https://github.com/mas-cli/mas) - Install apps from Mac App Store\n- [Neovim](https://neovim.io) with [LunarVim](https://lunarvim.org)\n- [mpd](https://www.musicpd.org) with [ncmpcpp](https://rybczak.net/ncmpcpp) as music player\n- [tmux](https://github.com/tmux/tmux) with [tmuxinator](https://github.com/tmuxinator/tmuxinator)\n- [zoxide](https://github.com/ajeetdsouza/zoxide) - Jump around directories\n- [zsh4humans](https://github.com/romkatv/zsh4humans) - Zsh plugin manager \u0026 great plugins that works out of the box.\n\n## Apps \u0026 Utilities\n- [2Do](https://www.2doapp.com) - Todo app, available on Mac, iOS, Android.\n- [Alfred](https://www.alfredapp.com) - Replaces Spotlight\n- [Arq](https://www.arqbackup.com) - Backup files to Google Cloud Storage (Nearline)\n- [1password](https://1password.com)\n- [Karabiner Elements](https://github.com/pqrs-org/Karabi,ner-Elements) with [Goku](https://github.com/yqrashawn/GokuRakuJoudo) enables my [(S)uper(D)uper Mode](https://github.com/jasonrudolph/keyboard/#super-duper-mode) and Hyper Key\n- [Keyboard Maestro](https://www.keyboardmaestro.com) - Launch apps with Hyper Key\n- Web Browser\n\t- Google Chrome - Work\n\t- [Microsoft Edge](https://microsoftedge.microsoft.com) \u0026 [Opera GX](https://www.opera.com/gx) - Personal \n- [Obsidian](https://obsidian.md) - My current [Second Brain](/Second%20Brain.md) system\n- [Setapp](https://setapp.com) - App bundles, saved money since I already use tons of apps.\n  - [Bartender](https://setapp.com/apps/bartender) - Hide excessive menu bar icons\n  - [Sessions](https://setapp.com/apps/session) - Pomodoro timer\n- [Syncthing](https://syncthing.net) - Sync things.\n- [Hammerspoon](https://www.hammerspoon.org) - Windows management\n- [Tailscale](https://tailscale.com) - Private VPN for connecting to my NAS and listen to my music.\n\n## SaaS\n- [Vercel](https://vercel.com) - I have 30+ small projects hosted here.\n\n## Gadgets\n- MacBook M1 Pro 14\" 10/16 Cores 32GB Ram - Personal\n- MacBook Pro M1 (16GB RAM) - Work\n- [Ryzen Hackintosh](https://github.com/narze/hackintosh-rog-strix-b550i-gaming) - My last Hackintosh machine Ref. [Blog (Thai)](https://narze.medium.com/the-last-hackintosh-1-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87-ryzen-%E0%B8%81%E0%B8%B1%E0%B8%9A-m1-35807baccab8)\n- Mechanical Keyboards - Invest in something you use many hours a day.\n\t- [Planck Rev 6](https://drop.com/buy/planck-mechanical-keyboard)\n\t- [Lily58 Pro](https://keyhive.xyz/shop/lily58)\n\t- Keychron K12\n- [OnePlus 6T](http://oneplus.com)\n- [Zojirushi](https://www.zojirushi.com) Mugs \u0026 Tumblers\n- iPad with Apple Pencil\n- Full-size headphones with noise cancelling, I have [Sony MDR-1000X](https://www.sony.co.th/en/electronics/headband-headphones/mdr-1000x) \u0026 [Sony WH-1000XM4](https://www.sony.co.th/en/electronics/headband-headphones/wh-1000xm4)\n- [TicWatch Pro 4G/LTE](https://www.mobvoi.com/us/pages/ticwatchpro4g)\n- Twitch Magnetic USB Adapter \n\t- ![Twitch|200](/Images/Twitch_usb_adapter.png)\n- [Tigernu Backpacks](https://www.tigernustore.com). Good price \u0026 quality. I bought new models every 2-3 years.\n- [Boox Android eBook reader](https://www.amazon.com/BOOX-Nova-Pro-Reader-Android/dp/B07L95KPFM/ref=sr_1_2?keywords=boox+nova\u0026qid=1569171355\u0026s=electronics\u0026sr=1-2)\n- [Flents Ear Plugs](https://www.amazon.com/Flents-Quiet-Contour-Plugs-Pair/dp/B00IZCHYH2)\n- [Ostrich Pillow Light](https://ostrichpillow.com/products/ostrichpillow-light-reversible). Beware Chinese knockoffs.\n- [Moft Laptop \u0026 Phone Stand](https://www.moft.us)\n- Mouth Sticker - Saw [this video](https://www.youtube.com/watch?v=nl8LQrbMdqQ) and tried, this fix my dried mouth problem in the morning.\n- Xiaomi gadgets eg. Cleaner robot, vacuum cleaner, air purifier, IP camera.\n- [Hydro Flask 64oz.](https://www.hydroflask.com/64-oz-wide-mouth) with [Wide Mouth Straw Lid](https://www.hydroflask.com/wide-mouth-straw-lid)\n\n## Previously used\n\naka. Honorable mentions, and why I don't use them anymore\n\n- iTerm : Tmux is slow, prompt layout breaks when resizing the window.\n- Ansible\n- Fira Code font : I just want the change of pace, this font is really good.\n- Sublime Text : On the later years (around the time of Atom editor), I got less and less updates. Then when I found that VSCode is fast enough, I moved.\n- Oh-My-Zsh : Everyone uses this, so mainstream.\n- [z](https://github.com/rupa/z) : Not [Rust](https://github.com/ajeetdsouza/zoxide)\n- Google Chrome\n- Evernote\n- Dropbox \u0026 Google Drive : It eats CPU / Ram usage\n- OnePlus 5 : I gave it to my brother\n- Amazfit Bip : I gave it to my father\n- [OmniFocus](https://www.omnigroup.com/omnifocus) - Switched to [2Do](https://www.2doapp.com) since it was simpler.\n- [Zinit](https://github.com/zdharma-continuum/zinit) - Switched to [zsh4humans](https://github.com/romkatv/zsh4humans)\n- [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode) VSCode Theme\n- [Yabai](https://github.com/koekeishiya/yabai) (macOS tiling window manager) - Migrated to Hammerspoon since it's does not update for quite a while\n- [Baseus Magnetic USB Type-C Adapter](https://www.aliexpress.com/item/32924186463.html?spm=a2g0s.9042311.0.0.31684c4dQKyJRk). Replaced with Twitch USB Adapter\n- [Timing](https://setapp.com/apps/timing) - Time tracking app. It eats Gigabytes of space when I use it for 2-3 years.\n- [Time Out](https://setapp.com/apps/time-out) - Hooks with Sessions to block screen on Pomodoro breaks. I can control myself now to screen blocking is not necessary anymore.\n- [Notion](https://notion.so) - Too slow to use, and my current team switched to Jira.",
-    "lastmodified": "2022-03-03T14:47:20.518439105Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   },
   "/VSCode-Extensions": {
     "title": "VSCode Extensions",
     "content": "",
-    "lastmodified": "2022-03-03T14:47:20.518439105Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   },
   "/Whats-Up-with-SvelteKit-with-Shawn-Wang-swyx": {
     "title": "What's Up with SvelteKit with Shawn Wang (swyx)",
     "content": "\u003c!-- Generated by \u003ca href=\"https://www.yinote.co/#installation\"\u003eYiNote\u003c/a\u003e --\u003e\n\n\u003ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/GNB-203yYc8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen\u003e\u003c/iframe\u003e\n\n# [1.15 - What's Up With SvelteKit with Shawn Wang (swyx)](https://www.youtube.com/watch?v=GNB-203yYc8)\n\n  \n\n## [6:29](https://www.youtube.com/watch?v=GNB-203yYc8\u0026t=389)\n\n  \n\n\"Battery Included\"\n\n  \n\n## [7:08](https://www.youtube.com/watch?v=GNB-203yYc8\u0026t=428)\n\n  \n\n\"More happy \u0026 productive\"\n\n  \n\n## [7:55](https://www.youtube.com/watch?v=GNB-203yYc8\u0026t=475)\n\n  \n\nApple, Ikea hiring Svelte developers\n\n  \n\n## [9:03](https://www.youtube.com/watch?v=GNB-203yYc8\u0026t=543)\n\n  \n\nHTML Superset\n\n  \n\n## [12:02](https://www.youtube.com/watch?v=GNB-203yYc8\u0026t=722)\n\n  \n\nSvelte Actions\n\n  \n\n## [20:47](https://www.youtube.com/watch?v=GNB-203yYc8\u0026t=1247)\n\n  \n\nFull stack svelte course by Scott Tolinski\n\n  \n\n## [25:58](https://www.youtube.com/watch?v=GNB-203yYc8\u0026t=1558)\n\n  \n\nSvelte can be compiled to Web components\n\n  \n\n## [29:46](https://www.youtube.com/watch?v=GNB-203yYc8\u0026t=1786)\n\n  \n\nSapper \u0026 SvelteKit\n\n  \n\n## [41:39](https://www.youtube.com/watch?v=GNB-203yYc8\u0026t=2499)\n\n  \n\nThree.js journey\n\n  \n\n## [44:55](https://www.youtube.com/watch?v=GNB-203yYc8\u0026t=2695)\n\n  \n\nundraw.co\n\n  \n\n## [46:21](https://www.youtube.com/watch?v=GNB-203yYc8\u0026t=2781)\n\n  \n\nsw-yx/spark-joy",
-    "lastmodified": "2022-03-03T14:47:20.518439105Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   },
   "/Wishlist": {
     "title": "Wishlist",
     "content": "# Wishlist\n- Things to buy, it'll be moved to [Uses](Uses.md) if I bought it or [someone bought me](https://ko-fi.com/narze).\n\n## Coffee\n- Manual Espresso Machine\n\t- [Cafelat Robot](http://www.cafelat.com/robot.html)\n\t\t- [FB Page (Thailand)](https://www.facebook.com/Robot-Coffee-Maker-Thailand-637831223352912/)\n\t\t- Easier 2-presses workflow than Flair 58 (maybe)\n\t\t\t- No Pre-heating required for Robot\n\t\t\t- Comparison review (vs Flair 58)\n\t\t\t\t- https://www.youtube.com/watch?v=iX4Ra5H5eUU\n\t- Wacaco Nanopresso\n\t\t- ![](/Images/Wacaco%20Nanopresso.png)\n\t- Cafflano Kompresso\n\t\t- ![](/Images/Cafflano%20Kompresso.png)\n\t- Coffee Grinder\n\t\t- My [Delonghi KG79](https://www.delonghi.com/en-int/products/coffee/coffee-makers/grinders/kg79-0177111028) is not that good \u0026 hard to clean, I used it for Cold Brew.\n\t\t- Hand grinder\n\t\t\t- Kingrinder K2 (Grinds faster than C2 [ref](https://www.youtube.com/watch?v=0qBVp__SWwQ))\n\t\t\t\t- Kingrinder models  ![](../Images/KINGrinder.png)\n\t\t\t- Timemore C2\n\t\t\t- Comandante\n\t\t- Electric Grinder\n\t\t\t- Gemilai\n\t\t\t- Fellow Ode\n\t\t\t- Niche (30k+ THB :sadge:)\n\t- Accessories\n\t\t- Tamper\n\t\t- Cafelat Robot Mods\n\t\t- Digital Scale\n\t\t- Kettle\n\n## Tech\n- 144hz 4K Monitor\n- Better microphone with handle for streaming \u0026 video calls",
-    "lastmodified": "2022-03-03T14:47:20.518439105Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   },
   "/asdf-The-Ultimate-Version-Manager": {
     "title": "asdf - The Ultimate Version Manager",
     "content": "Due to the differences of the dependencies of your projects (and others on GitHub.) Now it's pretty normal to have multiple versions of programming languages like Python, Node.js, or even PHP, installed on your system. There're some tools like `pyenv`, `rbenv`, `nvm`, and many more, but most of them can work with only one language per tool, so you have to remember all of their commands if you work on multiple languages.\n\nEnter [`asdf`][https://asdf-vm.com], the universal version manager which works with most languages, and even cover some tools like [Vim][asdf-vim]!\n\nSince `asdf` is just a shell script with extensible plugin system. Installation is strightforward, [follow the instructions][install] to install it to the system. eg. If you use macOS:\n\n```shell\nbrew install coreutils curl git # Dependencies\nbrew install asdf\n```\n\nDon't forget to add `asdf` to your shell.\n\n```shell\n# zsh\necho -e \"\\n. $(brew --prefix asdf)/asdf.sh\" \u003e\u003e ~/.zshrc\n\n# bash\necho -e \"\\n. $(brew --prefix asdf)/asdf.sh\" \u003e\u003e ~/.bash_profile\n\n# fish\necho -e \"\\nsource \"(brew --prefix asdf)\"/asdf.fish\" \u003e\u003e ~/.config/fish/config.fish\n```\n\nRestart the shell. Now you're ready to add plugins! Firstly, list all the plugins.\n\n```shell\nasdf plugin list all\n\n# You'll see something like this\n...\nripgrep                       https://gitlab.com/wt0f/asdf-ripgrep.git\nrke                           https://github.com/particledecay/asdf-rke.git\nrlwrap                        https://github.com/asdf-community/asdf-rlwrap.git\nruby                         *https://github.com/asdf-vm/asdf-ruby.git\nrust                         *https://github.com/code-lever/asdf-rust.git\nsaml2aws                      https://github.com/elementalvoid/asdf-saml2aws.git\nsbcl                          https://github.com/smashedtoatoms/asdf-sbcl.git\nsbt                           https://github.com/bram2000/asdf-sbt.git\nscala                         https://github.com/mtatheonly/asdf-scala.git\nscenery                       https://github.com/skyzyx/asdf-scenery.git\n...\n```\n\nI want to use [Rust][rust-for-rubyist]! So add Rust plugin.\n\n```shell\nasdf plugin add rust\n```\n\nThen, list all Rust versions.\n\n```shell\nasdf list all rust # or asdf latest rust to get only latest version\n\n# Output\n...\n1.43.1\n1.44.0\n1.44.1\n1.45.0\n1.45.1\n1.45.2\n1.46.0\n1.47.0\n```\n\nChoose the version and install it.\n\n```shell\nasdf install rust 1.47.0\n```\n\nSet the version and you're done!\n\n```shell\n# Local (will create .tool-versions in current directory)\nasdf local rust 1.47.0\n\n# Global (will create ~/.tool-versions)\nasdf global rust 1.47.0\n\n# Shell (Set the version to current shell session)\nasdf shell rust 1.47.0\n```\n\nSometimes after installing new version or other command line executables which uses languages in asdf, you must run `reshim` once to recreate shims and make the executables working.\n\n```shell\nasdf reshim [language]\n```\n\nNote: Some languages (like [Node.js][asdf-nodejs]) has some requirements before install. So you should look on the plugin's homepage before installing any plugins for the first time.\n\n[asdf]: https://asdf-vm.com\n[asdf-vim]: https://github.com/tsuyoshicho/asdf-vim\n[install]: https://asdf-vm.com/#/core-manage-asdf\n[rust-for-rubyist]: /rust-for-rubyist\n[asdf-nodejs]: https://github.com/asdf-vm/asdf-nodejs#install",
-    "lastmodified": "2022-03-03T14:47:20.518439105Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   },
   "/ghq": {
     "title": "ghq",
     "content": "In all of my 3 Macs, I store all of my code within `~/Code` to make it persistent and easy to use across the machines. I use [`ghq`](https://github.com/x-motemen/ghq) (A [git](How%20I%20git%20in%202020.md) tool) to manage the inner structure.\n\nTo use `ghq`, simply run it anywhere in the terminal with your desired Github repository `user/repo` eg.\n\n```shell\n$ ghq get narze/thank-u-next-js\n```\n\nIf the code is not on your machine yet. The command will clone [narze/thank-u-next-js](https://github.com/narze/thank-u-next-js) to `~/Code/github.com/narze/thank-u-nextjs`. (Default root path is `~/ghq` but you can override it in your [gitconfig](https://github.com/narze/dotfiles/blob/master/etc/gitconfig#L12).)\n\nI make a [command line alias](https://monosor.com/command-line-aliases) and add `-l` parameter (`look`) to change the path after cloning, and `-p` to clone with SSH url for using with private Github repositories.\n\n```shell\nalias gq='ghq get -l -p'\n```\n\nSo, for instance, I can just type `gq narze/narze.github.io` in a new terminal session and start writing articles right away!",
-    "lastmodified": "2022-03-03T14:47:20.518439105Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   },
   "/templates/post": {
     "title": "Untitled Page",
     "content": "---\ntitle: \"{{title}}\"\n---",
-    "lastmodified": "2022-03-03T14:47:20.518439105Z",
+    "lastmodified": "2022-03-04T03:46:57.570125515Z",
     "tags": null
   }
 }
