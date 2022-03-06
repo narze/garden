@@ -112,6 +112,13 @@
           "text": "Digital Garden"
         }
       ],
+      "/Rust-for-Rubyist": [
+        {
+          "source": "/Rust-for-Rubyist",
+          "target": "/toward-a-more-useful-thai-keyboard-layout",
+          "text": "something"
+        }
+      ],
       "/Second-Brain": [
         {
           "source": "/Second-Brain",
@@ -313,6 +320,11 @@
           "source": "/Generating-an-optimized-Thai-keyboard-layout",
           "target": "/toward-a-more-useful-thai-keyboard-layout",
           "text": "Thai keyboard layout"
+        },
+        {
+          "source": "/Rust-for-Rubyist",
+          "target": "/toward-a-more-useful-thai-keyboard-layout",
+          "text": "something"
         }
       ]
     }
@@ -362,6 +374,11 @@
       "source": "/Quartz",
       "target": "/Digital-Garden",
       "text": "Digital Garden"
+    },
+    {
+      "source": "/Rust-for-Rubyist",
+      "target": "/toward-a-more-useful-thai-keyboard-layout",
+      "text": "something"
     },
     {
       "source": "/Second-Brain",
