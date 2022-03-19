@@ -15,7 +15,7 @@
   <article>
       {{if .Title}}<h1>{{ .Title }}</h1>{{end}}
       <p class="meta">
-          Last updated {{if ne .Date .Lastmod}}{{ .Lastmod.Format "January 2, 2006" }}{{else}}Unknown{{end}}
+          {{if ne .Date .Lastmod}} Last updated {{ .Lastmod.Format "January 2, 2006" }}{{else if not .Date.IsZero}} Created {{ .Date.Format "January 2, 2006" }} {{ else }} <!--No date-->{{end}}
       </p>
       <ul class="tags">
           {{ range (.GetTerms "tags") }}

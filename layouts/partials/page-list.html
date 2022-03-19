@@ -7,7 +7,8 @@
                 <p>{{- .Summary -}}{{if .Truncated}}...{{end}}</p>
             </div>
             <p class="meta">
-                {{ .ReadingTime }} minute read. Last updated {{if ne .Date .Lastmod}}{{ .Lastmod.Format "January 2, 2006" }}{{else}}Unknown{{end}}
+                {{ .ReadingTime }} minute read. 
+                {{if ne .Date .Lastmod}} Last updated {{ .Lastmod.Format "January 2, 2006" }}{{else if not .Date.IsZero}} Created {{ .Date.Format "January 2, 2006" }} {{ else }} <!--No date-->{{end}}
             </p>
         </div>
     </li>
