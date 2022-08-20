@@ -15,6 +15,8 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Pull & update submodules recursively
         run: |
@@ -30,7 +32,7 @@ jobs:
           git push
 
       - name: Build Link Index
-        uses: jackyzha0/hugo-obsidian@v2.10
+        uses: jackyzha0/hugo-obsidian@v2.17
         with:
           index: true
           input: content
@@ -40,7 +42,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "0.95.0"
+          hugo-version: '0.96.0'
           extended: true
 
       - name: Build

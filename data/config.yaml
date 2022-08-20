@@ -1,8 +1,23 @@
 name: "narze.live"
 enableToc: true
+openToc: false
 enableLinkPreview: true
-description: My new digital garden, built with Obsidian & Quartz
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
+enableSPA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: true
+enableGitHubEdit: true
+GitHubLink: https://github.com/narze/second-brain/tree/main
+enableSemanticSearch: false
+operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+description: "My new digital garden, built with Obsidian & Quartz"
 page_title: "🪴 narze's digital garden"
 links:
+  - link_name: Home
+    link: https://narze.live
   - link_name: Github
     link: https://github.com/narze
