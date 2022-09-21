@@ -8,20 +8,18 @@
       <!-- Begin actual content -->
       {{partial "header.html" .}}
       <article>
-        {{if .Title}}
-        <h1>{{ .Title }}</h1>
+        {{if .File.TranslationBaseName }}
+        <h1>{{ .File.TranslationBaseName | replaceRE `\.excalidraw` "" | humanize }}</h1>
         {{end}}
         <p class="meta">
-          {{ i18n "last_updated" }} {{ partial "date-fmt.html" .}} {{ partial
-          "github.html" . }}
+          {{ i18n "last_updated" }} {{ partial "date-fmt.html" .}} {{ partial "github.html" . }}
         </p>
         <ul class="tags">
           {{ range (.GetTerms "tags") }}
           <li><a href="{{ .Permalink }}">{{ .LinkTitle | humanize }}</a></li>
           {{ end }}
         </ul>
-        <!-- {{partial "toc.html" .}}  -->
-        <img src="{{.Page.Site.BaseURL}}/{{.File.Path | replaceRE `\.md$` ".svg" }}" width="auto" />
+        <center><img src="{{.Page.Site.BaseURL}}/{{.File.Path | replaceRE `\.md$` ".svg" }}" width="auto" /></center>
       </article>
       {{partial "footer.html" .}}
     </div>
